@@ -1,0 +1,59 @@
+{
+    "skills": [
+      {
+        "nombre": "React",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      },
+      {
+        "nombre": "MongoDB",
+        "foto": "https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=256"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "foto": "https://cdn.iconscout.com/icon/free/png-512/free-postgresql-226047.png?f=webp&w=256"
+      },
+      {
+        "nombre": "Redux",
+        "foto": "https://cdn.iconscout.com/icon/free/png-512/free-redux-283024.png?f=webp&w=256"
+      },
+      {
+        "nombre": "NodeJS",
+        "foto": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=webp&w=256"
+      },
+      {
+        "nombre": "HTML5",
+        "foto": "https://cdn.iconscout.com/icon/premium/png-512-thumb/html-2752158-2284975.png?f=webp&w=256"
+      },
+      {
+        "nombre": "CSS3",
+        "foto": "https://cdn.iconscout.com/icon/premium/png-512-thumb/css-2749248-2284638.png?f=webp&w=256"
+      },
+      {
+        "nombre": "Material UI",
+        "foto": "https://mui.com/static/logo.png"
+      }
+    ],
+    "proyectos": [
+      {
+        "nombre": "Rick y Morty",
+        "descripcion": "Proyecto integrador realizado durante el bootcamp Soy Henry para poder implementar las tecnologías aprendidas, tales como React y Redux para el frontend, NodeJS y Express.js para el backend y PostgreSQL y Sequelize para la base de datos",
+        "foto": "https://static.eldiario.es/clip/ba0e55e3-0983-4957-ac23-10ecdf3d8e4f_16-9-aspect-ratio_default_0.jpg",
+        "repositorio": "https://github.com/pareramelisa/Rick-y-Morty",
+        "deploy": ""
+      },
+      {
+        "nombre": "Tourify",
+        "descripcion": "Proyecto final individual realizado durante el bootcamp Soy Henry, aplicando el mismo stack que en Rick y Morty. Es una aplicación sobre turismo, que ayuda a los apasionados de los viajes a encontrar nuevas experiencias en todos los paises del mundo y a compartir las que ya han vivido.",
+        "foto": "https://aptus.com.ar/wp-content/uploads/2018/10/turismo-internacional.jpg",
+        "repositorio": "https://github.com/pareramelisa/PI-Countries",
+        "deploy": ""
+      },
+      {
+        "nombre": "Connectify",
+        "descripcion": "Proyecto final grupal realizado durante el bootcamp Soy Henry, utilizando React y Redux Toolkit para el frontend, junto con Material UI para los estilos, para el backend Node y Express, y en la base de datos MongoDB. Tambien se implementan otras tecnologías adicionales como Cloudinary para la subida de fotos y Socket.io para las notificaciones. Consiste en una aplicación para conectar a profesionales de cualquier rubro con clientes que requieran sus servicios.",
+        "foto": "https://www.workitdaily.com/media-library/image.jpg?id=19216316&width=980&quality=85",
+        "repositorio": "https://github.com/pareramelisa/frontConnectify",
+        "deploy": "https://connectify-front-ruby.vercel.app/"
+      }
+    ]
+  }
